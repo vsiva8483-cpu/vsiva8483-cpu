@@ -1,0 +1,48 @@
+name: Update Profile Assets
+
+on:
+  schedule:
+    - cron: "0 3 * * *"   # daily, refreshes the heatmap
+  push:
+    branches: [ main ]
+  workflow_dispatch: {}
+
+permissions:
+  contents: write
+
+jobs:
+  update:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+
+      - uses: actions/setup-python@v5
+        with:
+          python-version: "3.11"
+
+      - name: Install dependencies
+        run: pip install pillow requests
+
+      - name: Generate info card
+        run: python scripts/generate_info_card.py
+
+      - name: Generate contribution heatmap
+        env:
+          GH_TOKEN: ${{ secrets.GH_TOKEN }}
+        run: python scripts/generate_heatmap.py
+
+      - name: Generate ASCII portrait (only if source photo exists)
+        run: |
+          if [ -f source-photo.jpg ]; then
+            python scripts/generate_ascii.py
+          else
+            echo "source-photo.jpg not found — skipping ASCII portrait."
+          fi
+
+      - name: Commit changes
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "github-actions[bot]@users.noreply.github.com"
+          git add info-card.svg contrib-heatmap.svg siva-ascii.svg 2>/dev/null || true
+          git diff --staged --quiet || git commit -m "chore: refresh profile SVGs"
+          git push
