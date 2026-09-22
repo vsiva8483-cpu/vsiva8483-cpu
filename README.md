@@ -1,42 +1,84 @@
-witnesses regrets sdlc lawyer
+# Hey, I'm V Venkateswarlu 👋
 
-Typing SVG
+💻 Java Developer | DSA Enthusiast | Problem Solver
 
-solo dev, wandered into the matrix, never found my way back out...
+I enjoy solving coding problems, learning new technologies,
+and building things that turn ideas into working code.
 
-ngoding-mulu
-it's just me, a terminal, and a codebase full of things I'd rather not explain to the police
-break it, rebuild it, convince myself it was on purpose the whole time
-that's the entire SDLC
-status is always "shipping."
-regrets are always 0, mostly because I stopped counting around commit #47 and never looked back
-if it works, I built that
-if it doesn't, it's a feature I haven't documented yet or evidence, depending who's asking
+```text
+Code → Debug → Learn → Repeat
+```
 
-what I am actually shipping
-ENZO — self-hosted BYOK AI workspace
-chat, agents, and skills (Gmail, Google Calendar, web search, project generation) running entirely on your own provider API keys — no subscription, no middleman.
+## 🚀 What I'm Currently Working On
 
-keys sealed client-side with AES-256-GCM — the server never sees them
-one-command Docker deployment: ghcr.io/theguysudo/enzo
-agents with scheduled runs + a custom agent builder that drafts an agent from a plain-language task description
-Apache-2.0
-ENZO demo GitHub stars Docker pulls License
+* ☕ Java Programming
+* 🧠 Data Structures & Algorithms
+* 🔥 LeetCode
+* 🟢 GeeksforGeeks
+* 🛠️ Building Projects
+* 📚 Improving Problem Solving
 
-tools of the trade (alleged)
-tools
+## 🧑‍💻 Tech Stack
 
-TypeScript on the front, Python where nobody checks, Docker because "works on my machine" stopped being a legal defense.
+```text
+Java          █████████████████
+DSA           ████████████████
+Git & GitHub  ██████████████
+SQL           ███████████
+Python        █████████
+HTML/CSS      ████████
+```
 
-the numbers (exhibits A–D)
-profile stats
-languages commit languages
-streak stats
-commit stats productive time
-numbers don't lie. luckily I do.
+## 📚 Currently Learning
 
-the snake
-contribution snake
-it eats my contributions every day. consider it evidence disposal.
+* Data Structures & Algorithms
+* Advanced Java
+* Object-Oriented Programming
+* Problem Solving
+* Git & GitHub
+* Backend Development
 
-Typing SVG
+## 🏆 Coding Journey
+
+I regularly practice coding problems on:
+
+* 🟡 LeetCode
+* 🟢 GeeksforGeeks
+* 💻 HackerRank
+
+> **Solve more. Learn more. Build more. 🚀**
+
+## 📊 GitHub Stats
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=vsiva8483-cpu\&show_icons=true\&theme=tokyonight)
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=vsiva8483-cpu\&layout=compact\&theme=tokyonight)
+
+## 🐍 Contribution Snake
+
+![Snake animation](https://raw.githubusercontent.com/vsiva8483-cpu/vsiva8483-cpu/output/github-contribution-grid-snake.svg)
+
+## 🎯 Current Status
+
+```text
+Learning       : ████████████████
+Problem Solving: ███████████████
+Building       : █████████████
+Debugging      : ███████████████████
+Sleeping       : ██
+```
+
+## 🤝 Connect With Me
+
+* 💻 GitHub: [vsiva8483-cpu](https://github.com/vsiva8483-cpu)
+* 🔗 LinkedIn: Add your LinkedIn profile here
+
+---
+
+> **Keep coding. Keep learning. Keep building. 🚀**
+
+*If it works, don't touch it.*
+
+*If it doesn't work, debug it.*
+
+*If debugging doesn't work, debug the debugger.* 😄
