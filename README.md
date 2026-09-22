@@ -1,14 +1,42 @@
-| [![Venkateswarlu Vankaraboina — ASCII portrait](https://github.com/vsiva8483-cpu/vsiva8483-cpu/raw/main/siva-ascii.svg)](/vsiva8483-cpu/vsiva8483-cpu/blob/main/siva-ascii.svg) | [![Venkateswarlu Vankaraboina — stack, highlights, links](https://github.com/vsiva8483-cpu/vsiva8483-cpu/raw/main/info-card.svg)](/vsiva8483-cpu/vsiva8483-cpu/blob/main/info-card.svg) |
-| --- | --- |
+witnesses regrets sdlc lawyer
 
-## Venkateswarlu Vankaraboina
+Typing SVG
 
-**Java Backend Developer · DSA Practitioner**
+solo dev, wandered into the matrix, never found my way back out...
 
-[![Portfolio](https://img.shields.io/badge/Portfolio-venkateswarlu--vankaraboina-0A0E14?style=for-the-badge&logo=vercel&logoColor=white)](https://venkateswarlu-vankaraboina-port-fol-one.vercel.app/)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-venkateswarlu-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/venkateswarlu-vankara-boina-a9836a351)
-[![X](https://img.shields.io/badge/X-venkatasivhu3h-000000?style=for-the-badge&logo=x&logoColor=white)](https://x.com/venkatasivhu3h)
-[![LeetCode](https://img.shields.io/badge/LeetCode-Venkateswarlu77-FFA116?style=for-the-badge&logo=leetcode&logoColor=black)](https://leetcode.com/u/Venkateswarlu77/)
-[![GeeksforGeeks](https://img.shields.io/badge/GeeksforGeeks-vsivasx5r-2F8D46?style=for-the-badge&logo=geeksforgeeks&logoColor=white)](https://www.geeksforgeeks.org/user/vsivasx5r/)
+ngoding-mulu
+it's just me, a terminal, and a codebase full of things I'd rather not explain to the police
+break it, rebuild it, convince myself it was on purpose the whole time
+that's the entire SDLC
+status is always "shipping."
+regrets are always 0, mostly because I stopped counting around commit #47 and never looked back
+if it works, I built that
+if it doesn't, it's a feature I haven't documented yet or evidence, depending who's asking
 
-[![Venkateswarlu's GitHub contribution heatmap — auto-refreshed daily](https://github.com/vsiva8483-cpu/vsiva8483-cpu/raw/main/contrib-heatmap.svg)](/vsiva8483-cpu/vsiva8483-cpu/blob/main/contrib-heatmap.svg)
+what I am actually shipping
+ENZO — self-hosted BYOK AI workspace
+chat, agents, and skills (Gmail, Google Calendar, web search, project generation) running entirely on your own provider API keys — no subscription, no middleman.
+
+keys sealed client-side with AES-256-GCM — the server never sees them
+one-command Docker deployment: ghcr.io/theguysudo/enzo
+agents with scheduled runs + a custom agent builder that drafts an agent from a plain-language task description
+Apache-2.0
+ENZO demo GitHub stars Docker pulls License
+
+tools of the trade (alleged)
+tools
+
+TypeScript on the front, Python where nobody checks, Docker because "works on my machine" stopped being a legal defense.
+
+the numbers (exhibits A–D)
+profile stats
+languages commit languages
+streak stats
+commit stats productive time
+numbers don't lie. luckily I do.
+
+the snake
+contribution snake
+it eats my contributions every day. consider it evidence disposal.
+
+Typing SVG
