@@ -20,14 +20,13 @@ Code → Debug → Learn → Repeat
 
 ## 🧑‍💻 Tech Stack
 
-```text
 Java          █████████████████
 DSA           ████████████████
 Git & GitHub  ██████████████
 SQL           ███████████
 Python        █████████
 HTML/CSS      ████████
-```
+
 
 ## 📚 Currently Learning
 
@@ -60,13 +59,13 @@ I regularly practice coding problems on:
 
 ## 🎯 Current Status
 
-```text
+
 Learning       : ████████████████
 Problem Solving: ███████████████
 Building       : █████████████
 Debugging      : ███████████████████
 Sleeping       : ██
-```
+
 
 ## 🤝 Connect With Me
 
@@ -76,9 +75,3 @@ Sleeping       : ██
 ---
 
 > **Keep coding. Keep learning. Keep building. 🚀**
-
-*If it works, don't touch it.*
-
-*If it doesn't work, debug it.*
-
-*If debugging doesn't work, debug the debugger.* 😄
