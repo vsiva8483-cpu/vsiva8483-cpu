@@ -1,6 +1,6 @@
 # Hey, I'm V Venkateswarlu 👋
 
-💻 Java Developer | DSA Enthusiast | Problem Solver
+Java Developer | DSA Enthusiast | Problem Solver
 
 I enjoy solving coding problems, learning new technologies,
 and building things that turn ideas into working code.
@@ -9,16 +9,16 @@ and building things that turn ideas into working code.
 Code → Debug → Learn → Repeat
 ```
 
-## 🚀 What I'm Currently Working On
+🚀 What I'm Currently Working On
 
-* ☕ Java Programming
-* 🧠 Data Structures & Algorithms
-* 🔥 LeetCode
-* 🟢 GeeksforGeeks
-* 🛠️ Building Projects
-* 📚 Improving Problem Solving
+*  Java Programming
+*  Data Structures & Algorithms
+*  LeetCode
+*  GeeksforGeeks
+*  Building Projects
+*  Improving Problem Solving
 
-## 🧑‍💻 Tech Stack
+##  Tech Stack
 
 Java          █████████████████
 DSA           ████████████████
@@ -28,7 +28,7 @@ Python        █████████
 HTML/CSS      ████████
 
 
-## 📚 Currently Learning
+## Currently Learning
 
 * Data Structures & Algorithms
 * Advanced Java
@@ -37,23 +37,23 @@ HTML/CSS      ████████
 * Git & GitHub
 * Backend Development
 
-## 🏆 Coding Journey
+## Coding Journey
 
 I regularly practice coding problems on:
 
-* 🟡 LeetCode
-* 🟢 GeeksforGeeks
-* 💻 HackerRank
+*  LeetCode
+*  GeeksforGeeks
+*  HackerRank
 
-> **Solve more. Learn more. Build more. 🚀**
+> **Solve more. Learn more. Build more. **
 
-## 📊 GitHub Stats
+##  GitHub Stats
 
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=vsiva8483-cpu\&show_icons=true\&theme=tokyonight)
 
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=vsiva8483-cpu\&layout=compact\&theme=tokyonight)
 
-## 🐍 Contribution Snake
+##  Contribution Snake
 
 ![Snake animation](https://raw.githubusercontent.com/vsiva8483-cpu/vsiva8483-cpu/output/github-contribution-grid-snake.svg)
 
